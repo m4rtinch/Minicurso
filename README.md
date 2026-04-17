@@ -1,2 +1,0 @@
-# Minicurso
-Mi primer repo
